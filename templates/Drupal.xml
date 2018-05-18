@@ -1,0 +1,10 @@
+<templateSet group="Drupal">
+  <template name="d8g" value="$variables['$field$'] = $node-&gt;get('field_$field$')$END$;" description="Drupal 8 -&gt; Get Field Value" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+</templateSet>
