@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,thead,tbody,tfoot" />
   <option name="HTML_KEEP_WHITESPACES_INSIDE" value="span,pre,textarea,code" />
   <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,tt,u,var" />
