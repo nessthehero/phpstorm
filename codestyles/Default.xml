@@ -60,6 +60,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
