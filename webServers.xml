@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff26f549-e5ac-41a9-837c-b3789d4a6a85" name="UVA HR Dev " url="http://uvahr.dev.dd:8083">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
