@@ -4,6 +4,14 @@
       <webServer id="ff26f549-e5ac-41a9-837c-b3789d4a6a85" name="UVA HR Dev " url="http://uvahr.dev.dd:8083">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e1f7c95e-e7e3-4895-9e09-fcd7be2d3401" name="Dev Server" url="http://transferin.net/">
+        <fileTransfer host="sftp.barkleyhosting.com" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
