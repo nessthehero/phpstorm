@@ -12,6 +12,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d434879a-cb0e-43a2-9517-a51aa441efcf" name="CPCC Pantheon" url="http://dev-cpcc.pantheonsite.io/">
+        <fileTransfer host="appserver.dev.a67d664a-59e4-4a88-9e81-a2a23a0e908f.drush.in" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
